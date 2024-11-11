@@ -6,3 +6,10 @@ Las publicaciones se gestionan vinculando imágenes con mensajes predeterminados
 
 Si deseas asociar el mensaje **"algunos detallitos"** a la imagen **accent.png**, se debe escribir de la siguiente manera:
 
+accent.png#algunos detallitos
+
+Esto asignará el mensaje por defecto de la publicación a **"algunos detallitos"** cuando se utilice la imagen **accent.png**.
+
+
+
+
